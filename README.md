@@ -1,2 +1,4 @@
 # Anagrams
-A tool for solving anagrams from a pre-set array.
+A very light-weight tool for solving anagrams by comparing them alphabetically solved with an array of words also alphabetically solved.
+
+# License
